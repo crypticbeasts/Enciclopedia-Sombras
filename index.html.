@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enciclopédia das Criaturas Sombras</title>
+</head>
+<body>
+    <h1>Enciclopédia das Criaturas Sombras</h1>
+    <p>Explore o registro sombrio das criaturas esquecidas...</p>
+    <h2>Criaturas</h2>
+    <ul>
+        <li><a href="#">Criatura 1</a></li>
+        <li><a href="#">Criatura 2</a></li>
+        <li><a href="#">Criatura 3</a></li>
+    </ul>
+</body>
+</html>
