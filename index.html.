@@ -1,18 +1,28 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enciclopédia das Criaturas Sombras</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enciclopédia das Criaturas</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Enciclopédia das Criaturas Sombras</h1>
-    <p>Explore o registro sombrio das criaturas esquecidas...</p>
-    <h2>Criaturas</h2>
-    <ul>
-        <li><a href="#">Criatura 1</a></li>
-        <li><a href="#">Criatura 2</a></li>
-        <li><a href="#">Criatura 3</a></li>
-    </ul>
+  <header>
+    <h1>Enciclopédia Sombria das Criaturas</h1>
+  </header>
+  <main>
+    <section>
+      <h2>Criaturas Sinistras</h2>
+      <ul class="creature-list">
+        <li><a href="monsters/creature1.html">Monstro Sombrio</a></li>
+        <li><a href="monsters/creature2.html">A Fera de Fogo</a></li>
+        <!-- Adicione mais links de criaturas conforme necessário -->
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>© 2023 Enciclopédia das Criaturas. Inspirado pelo canal TikTok.</p>
+  </footer>
 </body>
 </html>
+
